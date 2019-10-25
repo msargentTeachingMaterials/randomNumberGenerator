@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="get_number">Get Number</string>
+    <string name="starting_number_text">Starting number</string>
+    <string name="ending_number_text">Ending number</string>
+    <string name="without_replacement">Without replacement</string>
+    <string name="label">Get a Random Number!</string>
+</resources>
